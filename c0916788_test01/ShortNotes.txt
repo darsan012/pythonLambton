@@ -1,0 +1,4 @@
+Q1. We need variables to hold integer, fraction, sign and precision 
+
+Q3. We need to split the values after the decimal point. In this example 123 will be integer part and 456 will be fraction part
+
